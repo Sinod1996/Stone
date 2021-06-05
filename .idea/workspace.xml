@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93f8d400-925d-43ee-91a3-60c846c37efb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Qar\exportToHTML" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="3c3f41" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="1YvGsX7nYZfcWRpVcmrGrtrltPs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.splitter.proportion" value="0.22902271" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\Qar" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f8d400-925d-43ee-91a3-60c846c37efb" name="Default Changelist" comment="" />
+      <created>1583815879306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583815879306</updated>
+      <workItem from="1583815906337" duration="720000" />
+      <workItem from="1585737234123" duration="2630000" />
+      <workItem from="1585745083827" duration="831000" />
+      <workItem from="1585746000147" duration="7704000" />
+      <workItem from="1585756878119" duration="237000" />
+      <workItem from="1585818318430" duration="14759000" />
+      <workItem from="1585909985778" duration="9517000" />
+      <workItem from="1585979382132" duration="17971000" />
+      <workItem from="1586062723048" duration="6350000" />
+      <workItem from="1586245461811" duration="10037000" />
+      <workItem from="1586343394844" duration="5235000" />
+      <workItem from="1586514752858" duration="5368000" />
+      <workItem from="1586585274455" duration="5847000" />
+      <workItem from="1586708616408" duration="2570000" />
+      <workItem from="1586752679522" duration="8068000" />
+      <workItem from="1586771545359" duration="9503000" />
+      <workItem from="1586837914669" duration="15237000" />
+      <workItem from="1586860882849" duration="3349000" />
+      <workItem from="1586925343017" duration="5070000" />
+      <workItem from="1587013786974" duration="4104000" />
+      <workItem from="1587099236889" duration="5127000" />
+      <workItem from="1587115024428" duration="2142000" />
+      <workItem from="1587118771288" duration="2973000" />
+      <workItem from="1587188974250" duration="2713000" />
+      <workItem from="1587192101617" duration="363000" />
+      <workItem from="1587193208796" duration="279000" />
+      <workItem from="1587193527583" duration="554000" />
+      <workItem from="1587194239383" duration="481000" />
+      <workItem from="1587194905035" duration="230000" />
+      <workItem from="1587195395683" duration="25000" />
+      <workItem from="1587195570472" duration="213000" />
+      <workItem from="1587200043256" duration="765000" />
+      <workItem from="1587203061887" duration="115000" />
+      <workItem from="1587203778028" duration="28000" />
+      <workItem from="1587205262341" duration="28000" />
+      <workItem from="1587205334444" duration="51000" />
+      <workItem from="1587205388932" duration="20000" />
+      <workItem from="1587205440004" duration="26000" />
+      <workItem from="1587205723888" duration="90000" />
+      <workItem from="1587205857896" duration="341000" />
+      <workItem from="1587206267250" duration="196000" />
+      <workItem from="1587206521505" duration="94000" />
+      <workItem from="1587206863958" duration="190000" />
+      <workItem from="1587207106939" duration="380000" />
+      <workItem from="1587291530573" duration="990000" />
+      <workItem from="1587295969313" duration="1573000" />
+      <workItem from="1587358181487" duration="326000" />
+      <workItem from="1587358556734" duration="4628000" />
+      <workItem from="1587371904940" duration="465000" />
+      <workItem from="1587446107272" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="245" key="#Deployment" timestamp="1587358467410">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="551" y="245" key="#Deployment/0.0.1680.1010@0.0.1680.1010" timestamp="1587358467410" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1587372380038">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1587372380038" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1587207408575">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1587207408575" />
+    <state x="710" y="396" key="publish.login" timestamp="1587358514814">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="710" y="396" key="publish.login/0.0.1680.1010@0.0.1680.1010" timestamp="1587358514814" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1587362637260">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1587362637260" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

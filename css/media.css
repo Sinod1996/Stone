@@ -1,0 +1,61 @@
+@media screen and (max-width:1200px){
+    .mejtexi_div{width: 96%;}
+    .tab_menu{font-size: 16px;}
+    .photos{width: 47%;}
+}
+
+@media screen and (max-width:980px) {
+    .verevi_div {display: none;}
+    .mobile_menu {display: block;}
+    .ankap {height: 150px;}
+    .taki_td_mejtex {display: none;}
+    .taki_td {display: none;border-right: none;width: 100%;}
+    .td2 {display: block;font-size: 48px;text-align: center;border-left: none;}
+    .mejtexi_div {font-size: 48px;padding-left: 7px; border-radius: 15px; overflow: hidden;box-sizing: border-box; width: 96%;}
+    .tsarayutyun_div{width: 95%;}
+    .taki_sirun_nkar {display: block;width: 50%; margin: 0 auto; }
+    .sirun_nkar {display: block; width: 100%;}
+    .verevi_h{font-size:60px;margin-top:20px; margin-bottom: 100px;}
+    .tsar{font-size: 45px; margin-top:0; margin-bottom: 20px; text-align: left;
+        padding-left: 100px; padding-right: 80px; }
+    .bardzr_vorak{font-size: 45px; text-align: left;
+        padding-left: 100px; padding-right: 80px;}
+    .anvchar{font-size: 50px; text-align: center; margin-top:50px}
+    .ashx{font-size: 48px; text-align: left; margin-bottom:70px; padding-left: 90px; padding-right: 90px;}
+    .plitka_nkar{width: 96%; margin-bottom: 20px; border-radius: 10px;}
+    .koxqi_plitkeq{width: 96%; margin-bottom: 50px; display: block; border-radius: 20px; margin-right: auto; margin-left:auto;}
+    .patvirel{font-size: 48px; width:80%; padding: 20px 0 20px 0; border-radius:20px;   }
+    .tesak_div{display: block; margin-top:20px;  border-bottom: 4px solid #1B1B2F; font-weight: bold;  }
+    .mejtexi_tesak_div{width: 96%;  border-radius: 20px; padding:0; }
+    .tesakanu_h{ font-size: 60px; margin-bottom: 100px;}
+    .tes_nkar_div{width:96%; margin:0 auto; border-radius: 20px; display: block; }
+    .tes_nkar{margin-top: 50px; margin-bottom: 70px;}
+    .anunner{ display:none; }
+    h3{text-align: center; font-size: 50px; margin-top: 100px;}
+    .anunner_verev{display: block; text-align: center; font-size: 50px; margin-top: 120px;}
+    .ras{width: 90px;}
+    .grelu_div{font-size:48px;   }
+    .chap{font-size: 48px; margin-top:100px; padding-left:20px; margin-bottom: 100px;}
+    .skzbi_div{width: 96%; display: block;  margin-left: auto;  margin-right: auto; }
+    .skzbi_nkarner{width: 100%; border-radius: 20px; margin-left:auto; margin-right: auto;  margin-bottom: 100px;}
+    .porcaru{font-size: 48px; text-align: left; padding-left: 100px; }
+    .gorc_nkar{width: 96%; margin-top: 60px; border-radius: 20px; }
+    .texapoxum{font-size: 48px; }
+    .gazel_nkar{width: 96%; margin-top: 100px; margin-bottom: 60px;}
+    .erashx{font-size: 52px; }
+    .relativ{display:block; font-size: 48px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; width: 100%; left:0;}
+    .glux{width: 100%; border-radius:20px; margin-left:0; }
+    .glux_mek{font-size: 48px; height: 90px;}
+    .anun{font-size: 48px; margin-top:100px;}  .btn{font-size: 48px; border-radius: 20px; margin-bottom:50px;}  .menu{font-size: 48px;}  .inp{height: 80px; font-size: 46px; }
+    .div_mek{margin-bottom: 100px;} .textpar{font-size: 46px;}
+    .photos{width: 97%; border-radius: 20px; margin-bottom: 50px; }
+    .photos:hover{transform: unset;}
+    h4{font-size: 58px;}
+    .numbers{font-size: 48px;}
+    .qari_tesak{width:50px; height: 50px;}
+    .qareri_mej{flex: 0 70px;}
+}
+
+
+
+
